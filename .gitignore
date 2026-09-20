@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+*.root
+*.edm4hep.root
+*.log
+.ipynb_checkpoints/
